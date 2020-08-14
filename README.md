@@ -18,7 +18,7 @@ logo.onload = () => {
   ctx.drawImage(logo, 75, 75, 50, 50);
 }
 ```
-Or... maybe create with using an SVG renderer https://github.com/soldair/node-qrcode/issues/237#issuecomment-673436444
+Or... maybe create using an SVG renderer https://github.com/soldair/node-qrcode/issues/237#issuecomment-673436444
 
 ### 2
 
