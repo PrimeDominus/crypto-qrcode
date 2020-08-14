@@ -17,3 +17,6 @@ logo.onload = () => {
 }
 ```
 Then have a look at https://github.com/man15h/vue-cryptoicon and incorporate the color feature for the icon.
+
+The word "QR Code" is registered trademark of:
+DENSO WAVE INCORPORATED
