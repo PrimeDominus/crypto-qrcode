@@ -1,6 +1,6 @@
 # crypto-qrcode
 
-Combines elemnts of https://github.com/spothq/cryptocurrency-icons and https://github.com/man15h/vue-cryptoicon to create QR codes with coloured icons in the middle.
+Combines elements of https://github.com/spothq/cryptocurrency-icons and https://github.com/man15h/vue-cryptoicon to create QR codes with coloured icons in the middle.
 
 ## To do
 
@@ -16,7 +16,7 @@ logo.onload = () => {
   ctx.drawImage(logo, 75, 75, 50, 50);
 }
 ```
-Then have a look at https://github.com/man15h/vue-cryptoicon and incorporate the color feature for the icon.
+Then have a look at https://github.com/man15h/vue-cryptoicon and incorporate the color feature for the icon. Note that on their demo page https://vue-cryptoicon.netlify.app/ they have set the correct colouring for each icon when the "color" option is selected, hence for color settings of each icon, please use those colours.
 
 ***
 
